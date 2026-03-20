@@ -28,7 +28,7 @@ We do not collect, store, or transmit any personal data to our own servers. All 
 
 ## Data Storage
 
-All data is stored exclusively in your personal cloud account (iCloud or Google Drive). You have full control over your data and can delete it at any time directly from iCloud Drive (via the Files app under **Keep Receipt**) or Google Drive (in the **Keep Receipt** folder).
+All data is stored exclusively in your personal cloud account (iCloud or Google Drive). You have full control over your data and can delete it at any time directly from iCloud Drive (via the Files app under **KeepReceipt**) or Google Drive (in the **KeepReceipt** folder).
 
 ## Third-Party Services
 
