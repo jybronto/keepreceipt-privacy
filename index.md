@@ -1,39 +1,45 @@
-# Privacy Policy for Keep. Receipt
+# Privacy Policy for Keep.Receipt
 
-**Last updated: March 15, 2025**
+**Last updated: March 20, 2026**
 
 ## Overview
 
-Keep. Receipt ("the App") is a receipt scanning application developed for personal expense tracking. This Privacy Policy explains how we handle your information.
+Keep.Receipt ("the App") is a receipt scanning application developed for personal and business expense tracking. This Privacy Policy explains how we handle your information.
 
 ## Information We Collect
 
-**Camera and Photos**
-The App uses your device camera to scan receipts. Scanned images are processed locally on your device and uploaded to your personal Google Drive account only. We do not have access to your photos or camera roll.
+**Camera**
+The App uses your device camera to scan receipts. Scanned images are processed locally on your device and saved directly to your chosen cloud storage. We do not have access to your camera roll or photo library.
 
-**Google Account**
-The App uses Google Sign-In to connect to your personal Google Drive. We only request permission to create and manage files within the App's designated folders in your Drive. We do not access any other files or data in your Google account.
+**Cloud Storage**
+Depending on your chosen storage option, the App connects to one of the following:
+
+- **iCloud Drive** — files are saved to your personal iCloud account via Apple's standard file APIs. No sign-in is required beyond your existing Apple ID. We have no access to your iCloud data.
+- **Google Drive** — files are saved to your personal Google Drive. The App uses Google Sign-In with the `drive.file` scope only. This means the App can only access files and folders it has created itself — it cannot read, modify, or delete any other files in your Google Drive.
 
 **No Data Collection**
-We do not collect, store, or share any personal data on our servers. All receipt data remains in your personal Google Drive account, which is governed by Google's Privacy Policy.
+We do not collect, store, or transmit any personal data to our own servers. All receipt data remains exclusively in your personal iCloud or Google Drive account.
 
 ## How We Use Your Information
 
 - Camera access is used solely to scan receipts
-- Google Drive access is used solely to store your scanned receipts in your personal Drive
-- No data is sent to third-party servers
+- iCloud or Google Drive access is used solely to store your scanned receipts in the App's designated folders
+- No data is sent to any third-party servers beyond your chosen cloud storage provider
 
 ## Data Storage
 
-All data is stored exclusively in your personal Google Drive account. You have full control over your data and can delete it at any time through Google Drive.
+All data is stored exclusively in your personal cloud account (iCloud or Google Drive) in a folder called **Keep.Receipt**. You have full control over your data and can delete it at any time directly from iCloud Drive (via the Files app) or Google Drive.
 
 ## Third-Party Services
 
-The App uses the following third-party services:
-- **Google Drive API** — for storing receipts in your personal Google Drive
-- **Google Sign-In** — for authentication
+Depending on your chosen storage, the App may use the following third-party service:
+
+- **Google Drive REST API v3** — used to create, read, and delete receipt files within the App's own folders only (`drive.file` scope)
+- **Google Sign-In** — used for authentication when Google Drive is selected
 
 These services are governed by [Google's Privacy Policy](https://policies.google.com/privacy).
+
+If you use iCloud Drive, no third-party services are involved.
 
 ## Children's Privacy
 
