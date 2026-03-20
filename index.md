@@ -1,10 +1,10 @@
-# Privacy Policy for Keep.Receipt
+# Privacy Policy for Keep Receipt
 
 **Last updated: March 20, 2026**
 
 ## Overview
 
-Keep.Receipt ("the App") is a receipt scanning application developed for personal and business expense tracking. This Privacy Policy explains how we handle your information.
+Keep Receipt ("the App") is a receipt scanning application developed for personal and business expense tracking. This Privacy Policy explains how we handle your information.
 
 ## Information We Collect
 
@@ -28,7 +28,7 @@ We do not collect, store, or transmit any personal data to our own servers. All 
 
 ## Data Storage
 
-All data is stored exclusively in your personal cloud account (iCloud or Google Drive) in a folder called **Keep.Receipt**. You have full control over your data and can delete it at any time directly from iCloud Drive (via the Files app) or Google Drive.
+All data is stored exclusively in your personal cloud account (iCloud or Google Drive). You have full control over your data and can delete it at any time directly from iCloud Drive (via the Files app under **Keep Receipt**) or Google Drive (in the **Keep Receipt** folder).
 
 ## Third-Party Services
 
